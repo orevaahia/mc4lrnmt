@@ -1,5 +1,5 @@
 
-
+# Training params
 USER_DIR=user_dir/              # modify with path to the user_dir used to generate your data
 PROBLEM=translate_enyo_sub4k    # modify with name of problem specific to data generator      
 hparams_set=sparse_transformer_magnitude_pruning_tpu
