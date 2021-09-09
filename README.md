@@ -1,4 +1,6 @@
-# mc4lrnmt
+# The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation
+
+Link to paper: (https://openreview.net/pdf?id=qw1qqFlw6O2)
 
 This code is built based on the Tensor2Tensor implementation: (https://github.com/tensorflow/tensor2tensor) and https://github.com/google-research/google-research/tree/master/state_of_sparsity
 
